@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "2026-03-18_Borjas_Lab5_website"
+  favicon: antibody.svg
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+      - href: CV.qmd
+      - href: images.qmd
+format:
+  html:
+    theme: united
+    css: styles.css

@@ -1,0 +1,17 @@
+---
+title: "Research"
+---
+
+# Current Research
+
+## Targeting Autoimmune Disease: The Keap1-Nrf2 Axis
+Nrf2 is a master transcriptional regulator of metabolism, the immune response, and of cytoprotective proteins. In the basal state, Nrf2 is bound and tethered to the perinuclear space by Keap1 which also mediates degradation of Nrf2 by the ubiquitin-proteasome system. Thus, Keap1 negatively regulates Nrf2 by regulating both degradation rate and localization. In response to oxidative stress, such as inflammation, Keap1:Nrf2 dissociate, and Nrf2 translocates to bind Antioxidant Response Element (ARE) motifs in the genome, leading to activation of Nrf2-associated genes such as those associated with cellular respiration and anti-inflammatory cytokine signaling. Small molecules that disrupt the Keap1:Nrf2 interaction have advanced to the clinic, including the triterpenoid Skyclarys® (Friedreich’s ataxia) and dimethyl fumarate (Tecfidera®/Fumaderm® for MS/psoriasis), while others are being studied for various inflammatory diseases. However, despite their therapeutic potential, Nrf2 activators have had limited clinical translation due to off-target effects.
+
+My current project lies in developing a novel targeting strategy to specifically activate Nrf2 in immune cells to avoid the off-target toxicities associated with current small molecule inhibitors.
+
+<figure style="text-align: center;">
+  <img src="keap1.jpg" alt="Diagram of the Keap1-Nrf2 Pathway" style="width: 50%; border-radius: 8px;">
+  <figcaption>
+    The Keap1-Nrf2 Pathway (Suzuki, *Current Opinion in Toxicology* 2016)
+  </figcaption>
+</figure>

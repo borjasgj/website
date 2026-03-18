@@ -1,0 +1,31 @@
+---
+title: "Gustavo Jesus Borjas"
+about:
+  template: jolla
+  image: headshot.jpeg
+  links:
+    - text: "{{< iconify fa6-brands orcid>}}"
+      href: https://orcid.org/0000-0002-8857-0299 
+    - icon: github
+      href: https://github.com/borjasgj
+    - icon: linkedin
+      href: https://www.linkedin.com/in/gustavo-borjas
+    - icon: youtube
+      href: https://youtu.be/dQw4w9WgXcQ
+    - icon: envelope
+      href: mailto:gjb89@case.edu
+---
+
+My name is Gustavo Jesus Borjas. I am a 3rd year student in the Case Western Reserve University Medical Science Training Program (CWRU MSTP) working towards a dual MD/PhD degree. I am part of the [Letterio Lab](https://case.edu/cancer/members/member-directory/john-j-letterio) in the pathology department of CWRU.
+
+## About me
+
+Originally born in Venezuela, I grew up in warm and sunny Orlando, FL. I went on to attend Emory University where I found a deeply rooted interest in medical research, leading me to pursue a MD/PhD dual degree program. I aim to become a physician-scientist working to translate bench research into the clinical space.
+
+In between college and medical school, I spent time in two research labs further ignited and reaffirmed my career goal in medical research. First, I worked under the supervision of Drs. Roger Li and Jose Conejo-Garcia at Moffitt cancer center. There, my main projects were working on the immune correlates of a Phase Ib clinical trial of a novel form of immunotherapy for muscle invasive bladder cancer (Li, 2025). After Moffitt, I spent a second year at the University of Chicago under the supervision of Drs. Jeffrey Hubbell and Lisa Volpatti working on developing novel immunotherapies for cancer and autoimmune diseases.
+
+Moving forward, I came under the mentorship of Dr. John Letterio. Letterio has long worked on different modalities of drug development throughout his career, including research into developing novel immune-based therapeutic strategies. Naturally, I have fit in well into his research programs and I continue to thrive under his mentorship and in the wider CWRU community.
+
+## Research
+
+My interests lies in developing novel therapeutic strategies to modulate the immune system for the treatment of cancer and autoimmune diseases. [Read more about my research here!](research.qmd)

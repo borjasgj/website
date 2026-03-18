@@ -1,0 +1,7 @@
+---
+title: "CV"
+---
+
+All you would want to know about my professional life.
+
+<embed title="My CV" src="./Borjas_CV.pdf" width="100%" height="80%">

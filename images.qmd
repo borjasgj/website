@@ -1,0 +1,43 @@
+---
+title: "Cool Images"
+toc: TRUE
+---
+All the following images have been captured by or for me.
+
+## Dogs
+::: {layout-ncol=2}
+![These are my Dogs](dogs.jpeg)
+
+![Very Cute pups](dogs2.jpeg)
+
+![This guy's name is Moon](moon.jpeg)
+
+![And this gal is Maeve](maeve.jpeg)
+:::
+
+## Professional
+
+::: {layout-ncol=2}
+![LMSA 2025](LMSA_2025.jpeg)
+
+![CCCC 2025](CCCC_poster.jpg)
+
+![1st White Coat!](2023_white_coat.jpg)
+
+![2nd White Coat!](white_coat_2.jpeg)
+:::
+
+## Research Images
+These are a selection of images I've captured through microscopy techniques over the years. Samples shown are bacteria, mice, or IRB-approved, de-identified human tissue.
+
+::: {layout-ncol=2}
+![DNA Strands wrapping around a protein on AFM](AFM.png)
+
+![Amyloid Fibrils on AFM](AFM_amyloid.jpg)
+
+![Fluorescently-Labeled Mouse Heart](IF_heart.png)
+
+![Lipid-Stained Mouse Heart](RedO.png)
+:::
+
+![Fluorescently-labeled immune cells from a bladder cancer biopsy](TLS.png)
